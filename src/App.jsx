@@ -16,8 +16,8 @@ const App = () => {
     <div className='dark:bg-black relative'>
       <Toaster/>
       <Navbar theme={theme} setTheme={setTheme} />
-      <Hero />
-      <Trustedby />
+      <Hero/>
+      <Trustedby/>
       <Services/> 
       <OurWork/>
       <Teams/>
